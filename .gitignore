@@ -1,0 +1,11 @@
+# Gerados pelo PyInstaller
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# Log local de erros
+autoslow_erros.txt
